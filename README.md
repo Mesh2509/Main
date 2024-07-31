@@ -44,7 +44,9 @@ https://i.pinimg.com/originals/30/a7/01/30a7018bd7a59a852f4177295208dd55.jpg -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mesh2509&show_icons=true&locale=en" alt="mesh2509" /></p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mesh2509&show_icons=true&locale=en&layout=compact" alt="mesh2509" /></p>
+<a  href="https://github.com/anuraghazra/convoychat">
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesh2509&theme=default" />
+</a> 
   
   
 
