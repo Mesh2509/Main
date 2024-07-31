@@ -6,7 +6,7 @@ https://i.pinimg.com/originals/30/a7/01/30a7018bd7a59a852f4177295208dd55.jpg -->
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ykstech.ykstech)
+
 
 </p>
 <div size='20px'> Hi! My name is Prathamesh Apsingekar. Thank You for taking the time to view my GitHub Profile :smile: 
