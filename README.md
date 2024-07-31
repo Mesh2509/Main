@@ -29,7 +29,7 @@ https://i.pinimg.com/originals/30/a7/01/30a7018bd7a59a852f4177295208dd55.jpg -->
 
 - 👯 I’m looking to collaborate on Projects , Tech Articles 
 
-- 💬 Talk to me about Java , Android Development , Web development 
+- 💬 Talk to me about C , C++ , Java , Web development 
 
 <br>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
