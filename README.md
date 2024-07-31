@@ -12,6 +12,9 @@ https://i.pinimg.com/originals/30/a7/01/30a7018bd7a59a852f4177295208dd55.jpg -->
 <align="center"><div size='20px'> Currently pursuing for Bachelors of Engineering in Information Technology. I call myself "Tech enthusiast" cause I love to read , work and write on many trending technologies and I am working to grab the best job opportunity in the technology based companies. :smile: 
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mesh2509&label=Profile%20views&color=0e75b6&style=flat" alt="mesh2509" /> </p>
+
+
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
