@@ -9,7 +9,7 @@ https://i.pinimg.com/originals/30/a7/01/30a7018bd7a59a852f4177295208dd55.jpg -->
 
 
 </p>
-<h5<align="center"><div size='20px'> Currently pursuing for Bachelors of Engineering in Information Technology. I call myself "Tech enthusiast" cause I love to read , work and write on many trending technologies and I am working to grab the best job opportunity in the technology based companies</h5> :smile: 
+<align="center"><div size='20px'> Currently pursuing for Bachelors of Engineering in Information Technology. I call myself "Tech enthusiast" cause I love to read , work and write on many trending technologies and I am working to grab the best job opportunity in the technology based companies. :smile: 
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
