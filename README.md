@@ -17,7 +17,7 @@ https://i.pinimg.com/originals/30/a7/01/30a7018bd7a59a852f4177295208dd55.jpg -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on DSA and Android Projects
+- 🔭 I’m currently working on DSA and Java FullStack
 
 - 🌱 I’m currently learning Android Development and DSA  
 
