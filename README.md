@@ -12,6 +12,7 @@ https://i.pinimg.com/originals/30/a7/01/30a7018bd7a59a852f4177295208dd55.jpg -->
 <align="center"><div size='20px'> Currently pursuing for Bachelors of Engineering in Information Technology. I call myself "Tech enthusiast" cause I love to read , work and write on many trending technologies and I am working to grab the best job opportunity in the technology based companies. :smile: 
 </div>
 
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mesh2509&label=Profile%20views&color=0e75b6&style=flat" alt="mesh2509" /> </p>
 
 
