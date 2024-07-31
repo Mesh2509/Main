@@ -25,7 +25,7 @@ https://i.pinimg.com/originals/30/a7/01/30a7018bd7a59a852f4177295208dd55.jpg -->
 
 - 🔭 I’m currently working on DSA and Java FullStack
 
-- 🌱 I’m currently learning Android Development and DSA  
+- 🌱 I’m currently learning Android Development and Python FullStack  
 
 - 👯 I’m looking to collaborate on Projects , Tech Articles 
 
