@@ -40,7 +40,7 @@ https://i.pinimg.com/originals/30/a7/01/30a7018bd7a59a852f4177295208dd55.jpg -->
 <a href="https://www.leetcode.com/prathamesh_2509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathamesh_2509" height="30" width="40" /></a> </p>
 
   
-  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mesh2509&show_icons=true&locale=en&layout=compact" alt="mesh2509" /></p>  
   
   
   
