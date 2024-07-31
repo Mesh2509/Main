@@ -3,7 +3,7 @@
 </div>
 <!-- //
 https://i.pinimg.com/originals/30/a7/01/30a7018bd7a59a852f4177295208dd55.jpg -->
-<h1> Hi 👋, I'm Prathamesh Apsingekar <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hi, I'm Prathamesh Apsingekar <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 
