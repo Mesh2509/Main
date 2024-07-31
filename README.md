@@ -38,6 +38,7 @@ https://i.pinimg.com/originals/30/a7/01/30a7018bd7a59a852f4177295208dd55.jpg -->
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/prathameshapsingekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prathameshapsingekar" height="30" width="40" /></a> 
 <a href = 'https://www.github.com/Mesh2509'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href="https://instagram.com/prathamesh.2509_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prathamesh.2509_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prathamesh_2509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathamesh_2509" height="30" width="40" /></a>
 
   
   
